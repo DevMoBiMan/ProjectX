@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ProjectX</string>
+    <string name="titleIntroduc">Đây là ứng dụng\n bán hàng</string>
+    <string name="subTitleIntroduc"> Luôn mang lại trại nghiệm\n tốt nhất đến cho bạn</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
